@@ -1,4 +1,9 @@
 master
 master2
+<<<<<<< HEAD OK
 branch b2
 branch b2 2
+=======
+master3
+master4
+>>>>>>> master OK
